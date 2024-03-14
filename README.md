@@ -38,6 +38,7 @@ Simply input the text you want to summarize into the application's interface. Th
 ## Additional Resources
 
 - Check out the model on [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/mca183/text-summarization-distilbart-cnn).
+- Check out the Colab notebook for this project on [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/engichang1467/text-summarization-distilbart-cnn/blob/main/colab/test.ipynb)
 - Explore more about the DistilBART-CNN model [here](https://huggingface.co/sshleifer/distilbart-cnn-12-6).
 
 Feel free to reach out if you have any questions or feedback!
